@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Landscape Supply — TE Walrath</title>
+  <meta name="description" content="Walrath Landscape Supply — bulk materials, delivery, and equipment rental at Tacoma, Gig Harbor, and Olympia." />
+  <meta name="theme-color" content="#0D0E10" />
+  <link rel="icon" type="image/png" href="img/brand/logo.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <nav class="nav" aria-label="Primary">
+    <div class="nav-inner">
+      <a href="index.html" class="wordmark">WALRATH</a>
+      <button type="button" class="nav-toggle" id="nav-toggle" aria-expanded="false" aria-controls="nav-panel" aria-label="Open menu">
+        <span></span><span></span>
+      </button>
+      <div class="nav-panel" id="nav-panel">
+        <div class="nav-links">
+          <a href="trucking.html">Trucking</a>
+          <a href="soil.html">Soil Technologies</a>
+          <a href="supply.html" aria-current="page">Landscape Supply</a>
+          <a href="about.html">About</a>
+        </div>
+        <div class="nav-status">
+          <span class="nav-dot is-open" aria-hidden="true"></span>
+          <span>Tacoma · Gig Harbor · Olympia</span>
+        </div>
+        <a class="nav-phone" href="tel:2535317499">(253) 531-7499</a>
+      </div>
+    </div>
+  </nav>
+
+  <main id="main">
+    <div class="band">
+      <img src="img/bands/supply.jpg" alt="Aerial view of Walrath Landscape Supply Gig Harbor" width="1600" height="900" />
+      <div class="band-scrim" aria-hidden="true"></div>
+      <div class="band-content" data-reveal>
+        <div class="band-label">Division 03</div>
+        <h1>Landscape Supply</h1>
+        <p>Visit one of our 3 locations in Gig Harbor, Tacoma, and Olympia. We specialize in bulk materials for your home or business — including topsoil, bark, compost, gravel, and nursery plants. We deliver any size load.</p>
+      </div>
+    </div>
+    <div class="section-body wrap" data-reveal>
+      <div class="bulk-grid">
+        <a class="bulk-tile" href="olympia/sand-gravel.html">
+          <img src="img/bulk/aggregates.jpg" alt="Aggregates — sand and gravel" width="800" height="600" />
+          <div class="scrim" aria-hidden="true"></div>
+          <div class="label">
+            <div class="name">Aggregates</div>
+            <div class="note">Olympia sand &amp; gravel</div>
+          </div>
+        </a>
+        <a class="bulk-tile" href="olympia/mulch.html">
+          <img src="img/bulk/mulches.jpg" alt="Mulches — bark and ground cover" width="800" height="600" />
+          <div class="scrim" aria-hidden="true"></div>
+          <div class="label">
+            <div class="name">Mulches</div>
+            <div class="note">Olympia bark &amp; ground cover</div>
+          </div>
+        </a>
+        <a class="bulk-tile" href="olympia/soil-amendments.html">
+          <img src="img/bulk/soil.jpg" alt="Soil and amendments" width="800" height="600" />
+          <div class="scrim" aria-hidden="true"></div>
+          <div class="label">
+            <div class="name">Soil &amp; Amendments</div>
+            <div class="note">Olympia blends &amp; compost</div>
+          </div>
+        </a>
+      </div>
+      <p style="margin:22px 0 0;max-width:48ch;color:var(--muted);line-height:1.6">Browse the rebuilt Olympia product pages, then finish the order in the live catalog. <a href="olympia/index.html">Olympia catalog</a></p>
+
+      <div id="yards">
+        <div class="block-head">
+          <h2>Our locations</h2>
+          <span class="block-meta" id="yard-clock">— Pacific</span>
+        </div>
+        <div class="yard-tabs" role="tablist" aria-label="Yard locations">
+          <button type="button" class="yard-tab is-active" data-index="0" role="tab">Tacoma</button>
+          <button type="button" class="yard-tab" data-index="1" role="tab">Gig Harbor</button>
+          <button type="button" class="yard-tab" data-index="2" role="tab">Olympia</button>
+          <button type="button" class="yard-tab" data-index="3" role="tab">NE Tacoma</button>
+        </div>
+        <div class="two-col yard-detail">
+          <div>
+            <h3 id="yard-name">Walrath Landscape Supply — Tacoma</h3>
+            <div class="yard-status" id="yard-status">Open</div>
+            <div class="yard-rows">
+              <div class="yard-row"><span class="k">Address</span><span class="v" id="yard-addr"></span></div>
+              <div class="yard-row"><span class="k">Phone</span><span class="v" id="yard-phone"></span></div>
+              <div class="yard-row"><span class="k">Email</span><span class="v" id="yard-email"></span></div>
+              <div class="yard-row"><span class="k">Hours</span><span class="v" id="yard-hours"></span></div>
+            </div>
+            <p class="yard-note" id="yard-note"></p>
+          </div>
+          <div>
+            <div class="yard-photo">
+              <img id="yard-img" src="img/yards/tacoma.jpg" alt="Tacoma location" width="900" height="675" />
+            </div>
+            <div class="stock-label">Products at this location</div>
+            <div class="stock-chips" id="yard-stock"></div>
+            <div class="yard-actions">
+              <a class="btn btn-primary btn-sm" id="yard-call" href="tel:2534721252">Call (253) 472-1252</a>
+              <a class="btn btn-outline" id="yard-maps" href="https://goo.gl/maps/d4XXSGqsRHw" target="_blank" rel="noopener">Directions</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="calc">
+        <div class="calc-grid">
+          <div>
+            <div class="eyebrow" style="letter-spacing:.22em">Cubic yard calculator</div>
+            <h2>Know your yardage before you call.</h2>
+            <div class="sliders">
+              <div>
+                <div class="slider-head">
+                  <span class="label">Length (ft)</span>
+                  <span class="value" id="len-display">24 ft</span>
+                </div>
+                <input id="len" type="range" min="1" max="200" step="1" value="24" aria-label="Length in feet" />
+              </div>
+              <div>
+                <div class="slider-head">
+                  <span class="label">Width (ft)</span>
+                  <span class="value" id="wid-display">14 ft</span>
+                </div>
+                <input id="wid" type="range" min="1" max="200" step="1" value="14" aria-label="Width in feet" />
+              </div>
+              <div>
+                <div class="slider-head">
+                  <span class="label">Depth (inches)</span>
+                  <span class="value" id="depth-display">3 in</span>
+                </div>
+                <input id="depth" type="range" min="1" max="24" step="0.5" value="3" aria-label="Depth in inches" />
+              </div>
+            </div>
+          </div>
+          <div>
+            <div class="calc-result">
+              <span class="calc-yards" id="cubic-yards">3.1</span>
+              <span class="calc-unit">cubic yards</span>
+            </div>
+            <div class="calc-secondary">
+              <div>
+                <div class="v" id="coverage">336 ft²</div>
+                <div class="k">Coverage</div>
+              </div>
+              <div>
+                <div class="v" id="cubic-feet">84</div>
+                <div class="k">Cubic feet</div>
+              </div>
+            </div>
+            <p class="calc-note">Volume only — material weight varies by product and moisture, so your yard will confirm tonnage and the right truck for the load. Each location also has a volume calculator and delivery zones in its online catalog.</p>
+            <a class="btn btn-primary btn-sm" style="margin-top:20px" href="tel:2535317499">Order a delivery</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="rentals" id="rentals">
+        <div class="block-head">
+          <h2>Equipment rental — Gig Harbor</h2>
+          <span class="block-meta">Day · week · month · call Gig Harbor for pricing</span>
+        </div>
+        <div class="rental-grid">
+          <div class="rental-tile">
+            <div class="thumb"><img src="img/rentals/17g.jpg" alt="John Deere 17G Compact Excavator" width="480" height="360" /></div>
+            <div class="name">John Deere 17G Compact Excavator</div>
+            <div class="rental-meta">7′2″ dig depth · from $240/day</div>
+          </div>
+          <div class="rental-tile">
+            <div class="thumb"><img src="img/rentals/35g.jpg" alt="John Deere 35G Compact Excavator" width="480" height="360" /></div>
+            <div class="name">John Deere 35G Compact Excavator</div>
+            <div class="rental-meta">11′4″ dig depth · from $330/day</div>
+          </div>
+          <div class="rental-tile">
+            <div class="thumb"><img src="img/rentals/323e.jpg" alt="John Deere 323E Track Skid Steer" width="480" height="360" /></div>
+            <div class="name">John Deere 323E Track Skid Steer</div>
+            <div class="rental-meta">70 HP · from $370/day</div>
+          </div>
+        </div>
+        <p class="yard-note" style="margin-top:22px">Equipment is available to rent by the day, week, or month at Walrath Landscape Supply in Gig Harbor. Please call <a href="tel:2538588184">(253) 858-8184</a> for pricing and reservations. Dozer and loader rental with operator is also available through material handling.</p>
+      </div>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <div class="footer-grid">
+        <div>
+          <div class="footer-brand">WALRATH</div>
+          <p class="footer-blurb">TE Walrath Trucking, Inc. — trucking, soil technologies, and landscape supply out of Tacoma, Washington. Family owned and operated since 1968.</p>
+          <div class="footer-line">Main Office (253) 531-7499</div>
+          <div class="footer-line muted">11405 24th Ave East, Tacoma, WA 98445</div>
+          <a class="footer-line" href="mailto:support@tewalrath.com" style="display:inline-block;margin-top:5px">support@tewalrath.com</a>
+          <button type="button" class="login-btn" id="login-btn">Contractor login</button>
+          <div class="login-panel" id="login-panel">
+            Each yard has its own online catalog with account login, delivery zones, and a volume calculator:
+            <a href="https://tacoma.tewalrath.com" target="_blank" rel="noopener">tacoma.tewalrath.com</a>,
+            <a href="https://gigharbor.tewalrath.com" target="_blank" rel="noopener">gigharbor.tewalrath.com</a>,
+            <a href="https://olympia.tewalrath.com" target="_blank" rel="noopener">olympia.tewalrath.com</a>
+          </div>
+        </div>
+        <div>
+          <div class="footer-col-title">Divisions</div>
+          <div class="footer-links">
+            <a href="trucking.html">Trucking</a>
+            <a href="soil.html">Soil Technologies</a>
+            <a href="supply.html">Landscape Supply</a>
+            <a href="supply.html#rentals">Equipment Rental</a>
+            <a href="https://tewalrath.com/rooflite-certified-blender/" target="_blank" rel="noopener">rooflite® Certified Blender</a>
+          </div>
+        </div>
+        <div>
+          <div class="footer-col-title">Locations</div>
+          <div class="footer-links">
+            <a href="supply.html#yards">Tacoma — (253) 472-1252</a>
+            <a href="supply.html#yards">Gig Harbor — (253) 858-8184</a>
+            <a href="supply.html#yards">Olympia — (360) 754-3722</a>
+            <a href="mailto:support@tewalrath.com">Main Office — (253) 531-7499</a>
+            <a href="tel:4255075199">Everett production — (425) 507-5199</a>
+          </div>
+        </div>
+        <div>
+          <div class="footer-col-title">Company</div>
+          <div class="footer-links">
+            <a href="about.html">About Us</a>
+            <a href="supply.html#calc">Cubic Yard Calculator</a>
+            <a href="supply.html#yards">Contact Us</a>
+          </div>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <span>© TE Walrath. All rights reserved.</span>
+        <span>Main office · Tacoma, WA · (253) 531-7499</span>
+      </div>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

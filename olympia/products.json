@@ -1,0 +1,388 @@
+{
+  "catalog": {
+    "yard": "Olympia",
+    "phone": "(360) 754-3722",
+    "tel": "tel:3607543722",
+    "address": "9418 Old Highway 99 SE, Olympia, WA 98501",
+    "catalog": "https://olympia.tewalrath.com/catalog",
+    "maps": "https://www.google.com/maps/place/Walrath+Landscape+Supply/@46.9514699,-122.8622127,553m",
+    "note": "Delivering Monday through Saturday. Zone 1 delivery is included in catalog pricing. Extended zones have additional fees. The Olympia yard confirms tonnage and truck size."
+  },
+  "categories": [
+    {
+      "id": "mulch",
+      "slug": "mulch",
+      "title": "Mulches & Ground Cover",
+      "blurb": "Bark, chips, and ground cover for beds, paths, and play areas.",
+      "source": "https://olympia.tewalrath.com/category/mulch"
+    },
+    {
+      "id": "sand",
+      "slug": "sand-gravel",
+      "title": "Sand & Gravel",
+      "blurb": "Drain rock, clean and minus rock, pea gravel, and sand for base and drainage work.",
+      "source": "https://olympia.tewalrath.com/catalog"
+    },
+    {
+      "id": "soil",
+      "slug": "soil-amendments",
+      "title": "Soils & Amendments",
+      "blurb": "Topsoil, planting blends, compost, and potting soil for lawns, beds, and pots.",
+      "source": "https://olympia.tewalrath.com/category/soil-amendments"
+    }
+  ],
+  "products": [
+    {
+      "category": "mulch",
+      "slug": "cedar-play-chips",
+      "name": "Cedar Play Chips",
+      "categoryLabel": "Mulches & Ground Cover",
+      "description": "Cedar wood chips.",
+      "usage": "Playgrounds, walking paths. Not certified for playgrounds like for schools/municipalities.",
+      "image": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/2cc36257-1846-47c5-acc5-d69f53eb6e00/width=1200,height=900,fit=cover",
+      "thumb": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/2cc36257-1846-47c5-acc5-d69f53eb6e00/width=600,height=450,fit=cover",
+      "orderUrl": "https://olympia.tewalrath.com/product/cedar-play-chips"
+    },
+    {
+      "category": "mulch",
+      "slug": "fine-bark",
+      "name": "Fine Red Bark",
+      "categoryLabel": "Mulches & Ground Cover",
+      "description": "Double ground Hemlock and Fir Bark (primarily Fir) (more of a dark brown to black when wet).",
+      "usage": "Apply as mulch and ground cover to suppress weed growth and retain moisture. During cold months Bark can protect plants and shrubs by controlling soil temperature.",
+      "image": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/acbec976-8b06-4ba6-3470-e308a5bb7400/width=1200,height=900,fit=cover",
+      "thumb": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/acbec976-8b06-4ba6-3470-e308a5bb7400/width=600,height=450,fit=cover",
+      "orderUrl": "https://olympia.tewalrath.com/product/fine-bark"
+    },
+    {
+      "category": "mulch",
+      "slug": "fine-dark-bark",
+      "name": "Fine Dark Bark",
+      "categoryLabel": "Mulches & Ground Cover",
+      "description": "Double ground Hemlock and Fir Bark (Primarily fir)",
+      "usage": "Apply as a mulch and ground cover to suppress weed growth and retain moisture. During cold months Bark can protect plants and shrubs by controlling soil temperature.",
+      "image": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/9f0e21ba-ea57-423c-9264-9dadef9fb400/width=1200,height=900,fit=cover",
+      "thumb": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/9f0e21ba-ea57-423c-9264-9dadef9fb400/width=600,height=450,fit=cover",
+      "orderUrl": "https://olympia.tewalrath.com/product/fine-dark-bark"
+    },
+    {
+      "category": "mulch",
+      "slug": "large-nugget-bark",
+      "name": "Medium Nugget Bark",
+      "categoryLabel": "Mulches & Ground Cover",
+      "description": "Bark screened to approximately 1\"-2\" specification. More textured and free of fine particles. Provides a longer lasting results as it does not decompose as fast as the fine or medium barks.",
+      "usage": "Often used for ground cover around plants and other landscaping areas you want to suppress weed growth.",
+      "image": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/7ad67c3d-48dd-4b5a-03a5-bd08d140fc00/width=1200,height=900,fit=cover",
+      "thumb": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/7ad67c3d-48dd-4b5a-03a5-bd08d140fc00/width=600,height=450,fit=cover",
+      "orderUrl": "https://olympia.tewalrath.com/product/large-nugget-bark"
+    },
+    {
+      "category": "mulch",
+      "slug": "medium-bark",
+      "name": "Medium Bark",
+      "categoryLabel": "Mulches & Ground Cover",
+      "description": "Hemlock and Fir Bark (primarily Fir).",
+      "usage": "Apply as mulch and ground cover to suppress weed growth and retain moisture. During cold months Bark can protect plants and shrubs by controlling soil temperature.",
+      "image": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/9ee7f6ad-5fcd-44b6-6df2-db1c5121fc00/width=1200,height=900,fit=cover",
+      "thumb": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/9ee7f6ad-5fcd-44b6-6df2-db1c5121fc00/width=600,height=450,fit=cover",
+      "orderUrl": "https://olympia.tewalrath.com/product/medium-bark"
+    },
+    {
+      "category": "mulch",
+      "slug": "small-nugget-bark",
+      "name": "Small Nugget Bark",
+      "categoryLabel": "Mulches & Ground Cover",
+      "description": "Bark screened to approximately 3/8\"-1\" specification. More textured and free of fine particles. Provides a longer lasting results as it does not decompose as fast as the fine or medium barks.",
+      "usage": "Often used for ground cover around plants and other landscaping areas you want to suppress weed growth.",
+      "image": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/e5fcd047-97f4-48b0-c1e8-17cdcc844700/width=1200,height=900,fit=cover",
+      "thumb": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/e5fcd047-97f4-48b0-c1e8-17cdcc844700/width=600,height=450,fit=cover",
+      "orderUrl": "https://olympia.tewalrath.com/product/small-nugget-bark"
+    },
+    {
+      "category": "mulch",
+      "slug": "walk-onpathway-bark",
+      "name": "Walk-On/Pathway Bark",
+      "categoryLabel": "Mulches & Ground Cover",
+      "description": "Bigger shreds than medium bark, similar in color.",
+      "usage": "Apply as mulch and ground cover to suppress weed growth and retain moisture. During cold months Bark can protect plants and shrubs by controlling soil temperature.",
+      "image": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/229fc28a-70ab-4845-50c9-21d9bf805600/width=1200,height=900,fit=cover",
+      "thumb": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/229fc28a-70ab-4845-50c9-21d9bf805600/width=600,height=450,fit=cover",
+      "orderUrl": "https://olympia.tewalrath.com/product/walk-onpathway-bark"
+    },
+    {
+      "category": "mulch",
+      "slug": "sawdust-alder",
+      "name": "Sawdust (Alder)",
+      "categoryLabel": "Mulches & Ground Cover",
+      "description": "Small sawdust made of alder.",
+      "usage": "Pet/stall bedding.",
+      "image": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/47c62258-146e-4d9d-b093-482c304e8d00/width=1200,height=900,fit=cover",
+      "thumb": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/47c62258-146e-4d9d-b093-482c304e8d00/width=600,height=450,fit=cover",
+      "orderUrl": "https://olympia.tewalrath.com/product/sawdust-alder"
+    },
+    {
+      "category": "mulch",
+      "slug": "hog-fuel",
+      "name": "Hog Fuel",
+      "categoryLabel": "Mulches & Ground Cover",
+      "description": "Up to 6\" wood shreds consisting of a mixture of inner wood and bark. Generally made from stumps & large tree-clearing projects.",
+      "usage": "Used in design of composting garden beds (Huegel's), layered under other mulches for adding organics to existing soils.",
+      "image": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/59cd9bf5-283b-42a7-2534-f4f34c485d00/width=1200,height=900,fit=cover",
+      "thumb": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/59cd9bf5-283b-42a7-2534-f4f34c485d00/width=600,height=450,fit=cover",
+      "orderUrl": "https://olympia.tewalrath.com/product/hog-fuel"
+    },
+    {
+      "category": "sand",
+      "slug": "4-to-dust",
+      "name": "#4 to Dust",
+      "categoryLabel": "Sand & Gravel",
+      "description": "1/4\" crushed rock with fines. Sometimes known as paver base. Compacts tight and smooth.",
+      "usage": "Often used under stepping stones, pavers and flagstone. Great for walkways and dog runs. Can be used to fill potholes.",
+      "image": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/08ce5e40-0649-4908-64b0-cb689d2a9900/width=1200,height=900,fit=cover",
+      "thumb": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/08ce5e40-0649-4908-64b0-cb689d2a9900/width=600,height=450,fit=cover",
+      "orderUrl": "https://olympia.tewalrath.com/product/4-to-dust"
+    },
+    {
+      "category": "sand",
+      "slug": "1-12-clean-black",
+      "name": "1 1/4\" Clean — Black",
+      "categoryLabel": "Sand & Gravel",
+      "description": "1 1/4\" clean crushed aggregate without fines. Rock 1\" to 1 1/4\" in size. Will not pack but will stay in place better than a round rock. Color ranges from dark gray when dry to almost black when wet.",
+      "usage": "Often used as a top course for muddy driveways or parking areas. Can be used for pavement sub-base, foundation material, draining applications, behind retaining wall or decorative landscape.",
+      "image": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/1d91d8e8-6a0b-4a0b-f8a7-779741394700/width=1200,height=900,fit=cover",
+      "thumb": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/1d91d8e8-6a0b-4a0b-f8a7-779741394700/width=600,height=450,fit=cover",
+      "orderUrl": "https://olympia.tewalrath.com/product/1-12-clean-black"
+    },
+    {
+      "category": "sand",
+      "slug": "1-12-drain-rock",
+      "name": "1 1/2\" Drain Rock",
+      "categoryLabel": "Sand & Gravel",
+      "description": "1 1/2\" smooth round washed rock. Screened material that is uniform in size. Will not pack.",
+      "usage": "Often used as pipe bedding, French drains and decorative landscape. Not for driveways or parking areas.",
+      "image": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/0a45e432-6fe2-4da9-f3e7-971378862c00/width=1200,height=900,fit=cover",
+      "thumb": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/0a45e432-6fe2-4da9-f3e7-971378862c00/width=600,height=450,fit=cover",
+      "orderUrl": "https://olympia.tewalrath.com/product/1-12-drain-rock"
+    },
+    {
+      "category": "sand",
+      "slug": "1-14-clean",
+      "name": "1 1/4\" Clean — Grey",
+      "categoryLabel": "Sand & Gravel",
+      "description": "1 1/4\" clean crushed aggregate without fines. Light grey fractured rock in 1\" to 1 1/4\" in size. Will not pack but will stay in place better than a round rock.",
+      "usage": "Often used as a top course for muddy driveways or parking areas. Can be used for pavement sub-base, foundation material, draining applications, behind retaining wall or decorative landscape.",
+      "image": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/4dfb1734-fcbc-462b-ebae-95ef2b26e700/width=1200,height=900,fit=cover",
+      "thumb": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/4dfb1734-fcbc-462b-ebae-95ef2b26e700/width=600,height=450,fit=cover",
+      "orderUrl": "https://olympia.tewalrath.com/product/1-14-clean"
+    },
+    {
+      "category": "sand",
+      "slug": "1-14-minus",
+      "name": "1 1/4\" Minus — Grey",
+      "categoryLabel": "Sand & Gravel",
+      "description": "1 1/4\" crushed rock with fines. Light grey aggregate that has been crushed. Fines work as a binder for compaction. Does not pack as tight as 5/8\" Minus.",
+      "usage": "Better for softer area than 5/8\" Minus. Can be used as a pavement sub-base or road base. Typically used for commercial driveways or parking spaces for big trucks and RV's.",
+      "image": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/4af70a9e-0452-4872-a410-3adef3768e00/width=1200,height=900,fit=cover",
+      "thumb": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/4af70a9e-0452-4872-a410-3adef3768e00/width=600,height=450,fit=cover",
+      "orderUrl": "https://olympia.tewalrath.com/product/1-14-minus"
+    },
+    {
+      "category": "sand",
+      "slug": "3x10-castle-rock",
+      "name": "3\" × 10\" Castle Rock",
+      "categoryLabel": "Sand & Gravel",
+      "description": "Please note that this rock is unwashed and will contain a small amount of sand and dirt fines.",
+      "usage": "Often used for hardscapes, ground cover, landscape trim, drainage and erosion control. Helps suppress weeds and unwanted growth.",
+      "image": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/17e3b7bc-aefd-4226-42f1-e8e06f109600/width=1200,height=900,fit=cover",
+      "thumb": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/17e3b7bc-aefd-4226-42f1-e8e06f109600/width=600,height=450,fit=cover",
+      "orderUrl": "https://olympia.tewalrath.com/product/3x10-castle-rock"
+    },
+    {
+      "category": "sand",
+      "slug": "34-clean-black",
+      "name": "3/4\" Clean — Black",
+      "categoryLabel": "Sand & Gravel",
+      "description": "3/4\" clean crushed aggregate without fines. Fractured rock ranging in color from dark gray while dry and near black while wet. Will not pack.",
+      "usage": "Often used as a top course on driveways and pathways. Better than 3/4\" minus for a muddy area. Good for behind retaining walls.",
+      "image": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/d836133d-c176-4884-fefd-be7be0682200/width=1200,height=900,fit=cover",
+      "thumb": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/d836133d-c176-4884-fefd-be7be0682200/width=600,height=450,fit=cover",
+      "orderUrl": "https://olympia.tewalrath.com/product/34-clean-black"
+    },
+    {
+      "category": "sand",
+      "slug": "34-to-3-castle-rock",
+      "name": "3/4\" × 3\" Castle Rock",
+      "categoryLabel": "Sand & Gravel",
+      "description": "Please note that this rock is unwashed and will contain a small amount of sand and dirt fines.",
+      "usage": "Often used for landscaping around plants and garden areas as well as drainage to prevent ground erosion. Can also be used in pipe bedding and french drains.",
+      "image": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/9e1bfd39-5151-41b9-60a5-488a8d1c6300/width=1200,height=900,fit=cover",
+      "thumb": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/9e1bfd39-5151-41b9-60a5-488a8d1c6300/width=600,height=450,fit=cover",
+      "orderUrl": "https://olympia.tewalrath.com/product/34-to-3-castle-rock"
+    },
+    {
+      "category": "sand",
+      "slug": "38-pea-gravel",
+      "name": "3/8\" Pea Gravel",
+      "categoryLabel": "Sand & Gravel",
+      "description": "3/8\" smooth round washed rock. Screened material that is uniform in size. Will not pack.",
+      "usage": "Often used as an ingredient in concrete, pipe bedding, French drains and decorative landscape. Good for play areas. Not for driveways or parking areas.",
+      "image": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/7c6448a2-fd60-4bf7-c901-c773ccc7b200/width=1200,height=900,fit=cover",
+      "thumb": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/7c6448a2-fd60-4bf7-c901-c773ccc7b200/width=600,height=450,fit=cover",
+      "orderUrl": "https://olympia.tewalrath.com/product/38-pea-gravel"
+    },
+    {
+      "category": "sand",
+      "slug": "58-minus",
+      "name": "5/8\" Minus — Gray",
+      "categoryLabel": "Sand & Gravel",
+      "description": "5/8\" crushed rock with fines. Light grey aggregate that has been crushed. Fines work as a binder for compaction. Packs down tightly and holds in place very well.",
+      "usage": "Often used as a base for residential driveways. Commonly used in walkways or parking areas. Great for base material under flagstone, retaining walls or concrete. Can be used to fill potholes.",
+      "image": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/cc1d0f1f-28c4-47eb-c27e-ebda5b2c9900/width=1200,height=900,fit=cover",
+      "thumb": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/cc1d0f1f-28c4-47eb-c27e-ebda5b2c9900/width=600,height=450,fit=cover",
+      "orderUrl": "https://olympia.tewalrath.com/product/58-minus"
+    },
+    {
+      "category": "sand",
+      "slug": "78-drain-rock",
+      "name": "7/8\" Drain Rock",
+      "categoryLabel": "Sand & Gravel",
+      "description": "7/8\" smooth round washed rock. Screened material that is uniform in size. Will not pack.",
+      "usage": "Often used as an ingredient in concrete, pipe bedding, French drains and decorative landscape. Not for driveways or parking areas.",
+      "image": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/6237430f-e47d-4bd6-4e49-acafd5afee00/width=1200,height=900,fit=cover",
+      "thumb": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/6237430f-e47d-4bd6-4e49-acafd5afee00/width=600,height=450,fit=cover",
+      "orderUrl": "https://olympia.tewalrath.com/product/78-drain-rock"
+    },
+    {
+      "category": "sand",
+      "slug": "utility-sand",
+      "name": "Utility Sand",
+      "categoryLabel": "Sand & Gravel",
+      "description": "An unwashed sand that is coarse in texture and brownish-gray in color.",
+      "usage": "Used to stabilize pavers, stepping stones and flagstone. Can be used as pipe bedding or an ingredient in concrete. Helps with drainage in soil. Not recommended for sand boxes due to being unwashed and dusty.",
+      "image": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/7a45b7d7-18cf-41c3-9ab9-f32301e09e00/width=1200,height=900,fit=cover",
+      "thumb": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/7a45b7d7-18cf-41c3-9ab9-f32301e09e00/width=600,height=450,fit=cover",
+      "orderUrl": "https://olympia.tewalrath.com/product/utility-sand"
+    },
+    {
+      "category": "sand",
+      "slug": "1-14-minus-black",
+      "name": "1 1/4\" Minus — Black",
+      "categoryLabel": "Sand & Gravel",
+      "description": "1 1/4\" crushed rock with fines. Light grey aggregate that has been crushed. Fines work as a binder for compaction. Does not pack as tight as 5/8\" Minus.",
+      "usage": "Better for softer area than 5/8\" Minus. Can be used as a pavement sub-base or road base. Typically used for commercial driveways or parking spaces for big trucks and RV's.",
+      "image": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/fec952c0-3514-4adb-3959-5f3de02e1b00/width=1200,height=900,fit=cover",
+      "thumb": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/fec952c0-3514-4adb-3959-5f3de02e1b00/width=600,height=450,fit=cover",
+      "orderUrl": "https://olympia.tewalrath.com/product/1-14-minus-black"
+    },
+    {
+      "category": "sand",
+      "slug": "58-minus-black",
+      "name": "5/8\" Minus — Black",
+      "categoryLabel": "Sand & Gravel",
+      "description": "5/8\" crushed rock with fines. Light grey aggregate that has been crushed. Fines work as a binder for compaction. Packs down tightly and holds in place very well.",
+      "usage": "Often used as a base for residential driveways. Commonly used in walkways or parking areas. Great for base material under flagstone, retaining walls or concrete. Can be used to fill potholes.",
+      "image": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/9b7043ee-9591-49b2-55de-a63750399100/width=1200,height=900,fit=cover",
+      "thumb": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/9b7043ee-9591-49b2-55de-a63750399100/width=600,height=450,fit=cover",
+      "orderUrl": "https://olympia.tewalrath.com/product/58-minus-black"
+    },
+    {
+      "category": "sand",
+      "slug": "pumice",
+      "name": "Pumice",
+      "categoryLabel": "Sand & Gravel",
+      "description": "Pumice is a type of extrusive volcanic rock formed from gas bubbles causing it to be a very light and porous rock filled with bubbles of gas.",
+      "usage": "Used to make lightweight construction materials such as concrete block, insulation, roofing and landscaping. It is also used in many potting soils to improve drainage and oxygen to get to the root zones of your plants.",
+      "image": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/ce30d056-ade9-4857-6579-ccfcac574300/width=1200,height=900,fit=cover",
+      "thumb": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/ce30d056-ade9-4857-6579-ccfcac574300/width=600,height=450,fit=cover",
+      "orderUrl": "https://olympia.tewalrath.com/product/pumice"
+    },
+    {
+      "category": "sand",
+      "slug": "greens-grade-sand",
+      "name": "Greens Grade Sand",
+      "categoryLabel": "Sand & Gravel",
+      "description": "Top dressing sand used to level and top dress lawns.",
+      "usage": "Top dress and level lawns.",
+      "image": "../img/bulk/aggregates.jpg",
+      "thumb": "../img/bulk/aggregates.jpg",
+      "orderUrl": "https://olympia.tewalrath.com/product/greens-grade-sand"
+    },
+    {
+      "category": "soil",
+      "slug": "3-way-topsoil",
+      "name": "3-Way Topsoil",
+      "categoryLabel": "Soils & Amendments",
+      "description": "Screened Sandy Loam Soil, Sand, Compost",
+      "usage": "Often used to plant grass seed or lay SOD. Can be used to raise beds. All-around planting mix for lawns, filling in low spots, and all-around general use.",
+      "image": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/c57d5a2a-5f6b-4a34-72b1-85ff7a227700/width=1200,height=900,fit=cover",
+      "thumb": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/c57d5a2a-5f6b-4a34-72b1-85ff7a227700/width=600,height=450,fit=cover",
+      "orderUrl": "https://olympia.tewalrath.com/product/3-way-topsoil"
+    },
+    {
+      "category": "soil",
+      "slug": "premium-garden-blend",
+      "name": "Premium Garden Blend",
+      "categoryLabel": "Soils & Amendments",
+      "description": "Combination of 3-Way Topsoil, Coarse Sand, Greens Compost and Moo Magic.",
+      "usage": "Walrath's signature planting blend. Plant ready mix for flowers, trees, shrubs and vegetables. Plants get microbials from both types of compost.",
+      "image": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/12783602-6aa0-4b3d-b848-2a7673b29600/width=1200,height=900,fit=cover",
+      "thumb": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/12783602-6aa0-4b3d-b848-2a7673b29600/width=600,height=450,fit=cover",
+      "orderUrl": "https://olympia.tewalrath.com/product/premium-garden-blend"
+    },
+    {
+      "category": "soil",
+      "slug": "turf-booster",
+      "name": "Turf Booster",
+      "categoryLabel": "Soils & Amendments",
+      "description": "A mix of volcanic sand, coarse-washed sand, and Organic Super Doo.",
+      "usage": "Topdressing and new lawns. This product is a mix of fine sand (St. Helens minerals), coarse washed sand, and composts.",
+      "image": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/8005234a-39d9-4aab-79cb-6a34520e5400/width=1200,height=900,fit=cover",
+      "thumb": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/8005234a-39d9-4aab-79cb-6a34520e5400/width=600,height=450,fit=cover",
+      "orderUrl": "https://olympia.tewalrath.com/product/turf-booster"
+    },
+    {
+      "category": "soil",
+      "slug": "house-blend-potting-soil",
+      "name": "House Blend Potting Soil",
+      "categoryLabel": "Soils & Amendments",
+      "description": "An exclusive mix of organic and natural ingredients for beautiful and bountiful containers.",
+      "usage": "Great for all of your favorite outdoor container plants including vegetables, fruits, and flowers. Great for refreshing existing containers as well.",
+      "image": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/803c9715-0ea6-44f5-44cb-a9131db59700/width=1200,height=900,fit=cover",
+      "thumb": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/803c9715-0ea6-44f5-44cb-a9131db59700/width=600,height=450,fit=cover",
+      "orderUrl": "https://olympia.tewalrath.com/product/house-blend-potting-soil"
+    },
+    {
+      "category": "soil",
+      "slug": "compost",
+      "name": "Compost",
+      "categoryLabel": "Soils & Amendments",
+      "description": "A dark fine material made from composted yard waste. A locally produced registered Organic (WSDA Organic Food program) green-waste compost. Green waste compost is manufactured under rigorous guidelines of Dept. Of Ecology. Compost is produced using state of the art technology which monitors for oxygen and temperature throughout the active composting time frame. Under strict guidelines, compost is tested and reported back to local permitting agencies. Current test results available from the permitting agencies upon request at any time.",
+      "usage": "Enriches soil for vegetable gardens & flower beds, helping retain moisture and suppress plant diseases and pests. Reduces the need for chemical fertilizers. Encourages the production of beneficial bacteria and fungi that break down organic matter to create humus, a rich nutrient-filled material. Can be used as mulch top dressing if desired. Disclaimer: Compost is a recycled product used in many of our soil mixes. Even with quality control standards, recycled products may contain a small percentage of foreign materials such as plastic, metal, and glass. Please use recycled materials in appropriate applications. Handle with care. Glove use is recommended.",
+      "image": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/e4f90411-4e6e-44d6-1533-43d349839900/width=1200,height=900,fit=cover",
+      "thumb": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/e4f90411-4e6e-44d6-1533-43d349839900/width=600,height=450,fit=cover",
+      "orderUrl": "https://olympia.tewalrath.com/product/compost"
+    },
+    {
+      "category": "soil",
+      "slug": "moo-magic",
+      "name": "Moo Magic",
+      "categoryLabel": "Soils & Amendments",
+      "description": "Blend of greens Compost and washed dairy manure. Provides a wide range of beneficial microorganisms",
+      "usage": "Amend existing soils for vegetable and flower beds. Usage as mulch on beds or fertilize your lawn.",
+      "image": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/79b1c27b-71fd-459a-f53f-955224eae000/width=1200,height=900,fit=cover",
+      "thumb": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/79b1c27b-71fd-459a-f53f-955224eae000/width=600,height=450,fit=cover",
+      "orderUrl": "https://olympia.tewalrath.com/product/moo-magic"
+    },
+    {
+      "category": "soil",
+      "slug": "mushroom-compost",
+      "name": "Mushroom Compost",
+      "categoryLabel": "Soils & Amendments",
+      "description": "Composted (bedding/growing media) recycled/spent growing media: combination of: peat moss, straw, gypsum mixed with greens compost, brewer yeast & apple and grape pomace.",
+      "usage": "Great for an added boost to all your gardening needs. It is a great source of microbials and nutrients. It can be mixed in with current soil or used as a compost/mulch. *due to the dark color of the product, it can aid in heat and sun rays during hotter months and cause burns to plants such as grasses.",
+      "image": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/f40fe7aa-1d4d-450f-9f32-65cc3208af00/width=1200,height=900,fit=cover",
+      "thumb": "https://imagedelivery.net/Uf8WJfQ1SWTlrZsiBit6SQ/f40fe7aa-1d4d-450f-9f32-65cc3208af00/width=600,height=450,fit=cover",
+      "orderUrl": "https://olympia.tewalrath.com/product/mushroom-compost"
+    }
+  ]
+}

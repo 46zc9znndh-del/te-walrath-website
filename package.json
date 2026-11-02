@@ -1,0 +1,11 @@
+{
+  "name": "te-walrath-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "TE Walrath landing page redesign — pitch prototype",
+  "scripts": {
+    "dev": "npx --yes serve . -l 5173",
+    "start": "npx --yes serve . -l 5173",
+    "build": "node -e \"console.log('static site — no build step')\""
+  }
+}
